@@ -1,0 +1,33 @@
+Here are links to the datasets used throughout this project:
+
+Population
+https://www.census.gov/data/tables/time-series/demo/popest/2020s-national-detail.html#v2024 
+
+Debt
+https://www.newyorkfed.org/microeconomics/hhdc 
+
+Income 
+https://www.census.gov/library/publications/2024/demo/p60-282.html 
+
+Labor Participation 
+https://www.bls.gov/cps/tables.htm#otheryears 
+
+Housing
+https://fred.stlouisfed.org/series/MSPUS 
+
+Education 
+https://educationdata.org/average-cost-of-college-by-year 
+https://www.census.gov/data/tables/2022/demo/educational-attainment/cps-detailed-tables.html 
+
+Marriage 
+https://www.cdc.gov/nchs/nvss/marriage-divorce.htm?CDC_AA_refVal=https%3A%2F%2Fwww.cdc.gov%2Fnchs%2Fmardiv.htm 
+
+Childbirth
+https://catalog.data.gov/dataset/nchs-percent-distribution-of-births-for-females-by-age-group-united-states 
+https://data.un.org/Data.aspx?d=POP&f=tableCode%3A58 
+
+Happiness 
+https://worldhappiness.report/data-sharing/ 
+
+GDP
+https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=US 
